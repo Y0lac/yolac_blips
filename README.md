@@ -1,7 +1,7 @@
 # 🗺️ FiveM - Script de Blips
 
 ## 📖 Description
-Ce script permet d’ajouter facilement des **blips personnalisés** sur la carte GTA V dans votre serveur **Five M**.  
+Ce script permet d’ajouter facilement des **blips personnalisés** sur la carte GTA V dans votre serveur **FiveM**.  
 Il est simple, léger et totalement **Standalone**.
 
 ---
