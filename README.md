@@ -2,7 +2,7 @@
 
 ## 📖 Description
 Ce script permet d’ajouter facilement des **blips personnalisés** sur la carte GTA V dans votre serveur **FiveM**.  
-Il est simple, léger et totalement **standa lone**.
+Il est simple, léger et totalement **standalone**.
 
 ---
 
